@@ -1,7 +1,7 @@
 module People
   class Bob
     def name
-      "Hello, I'm BOB from master 2"
+      "Hello, I'm BOB from feature 2"
     end
   end
 end
