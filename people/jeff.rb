@@ -1,7 +1,12 @@
 module People
   class Jeff
     def name
-      "Hi I'm Jeff: OLD"
+      "Jeff"
     end
+
+    def greeting
+      "hello I'm #{name}"
+    end
+
   end
 end

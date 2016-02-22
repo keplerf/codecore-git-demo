@@ -1,7 +1,12 @@
 module People
   class Mary
     def name
-      "Hi I'm Mary: NEW"
+      "Mary"
     end
+
+    def greeting
+      "hello I'm #{name}"
+    end
+
   end
 end
